@@ -1,0 +1,35 @@
+{
+	"name": "min-theme-insomnia",
+	"version": "0.0.1",
+	"description": "A minimal theme for Insomnia.",
+	"main": "plugin.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Biguelini/min-theme-insomnia"
+	},
+	"keywords": [
+		"min-theme",
+		"theme",
+		"insomnia",
+		"insomnia-plugin"
+	],
+	"author": "Biguelini",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Biguelini/min-theme-insomnia/issues"
+	},
+	"homepage": "https://github.com/Biguelini/min-theme-insomnia#readme",
+	"insomnia": {
+		"name": "min-theme",
+		"displayName": "Min Theme",
+		"description": "A minimal theme for Insomnia.",
+		"publisher": {
+			"name": "Biguelini"
+		},
+		"unlisted": false,
+		"images": {
+			"icon": "./assets/icon.png",
+			"cover": "./assets/previews/preview.webp"
+		}
+	}
+}
