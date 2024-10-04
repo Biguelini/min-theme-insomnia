@@ -31,7 +31,7 @@ const makeTheme = (theme) => {
 			highlight: {
 				default: colors[`${theme}-overlay`], // sidebar highlight color
 			},
-			// The styles object targets sub-components of the Insomnia application.
+
 			styles: {
 				appHeader: {
 					foreground: {
