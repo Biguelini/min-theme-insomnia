@@ -1,5 +1,5 @@
 {
-	"name": "min-theme-insomnia",
+	"name": "insomnia-plugin-min-theme",
 	"version": "0.0.1",
 	"description": "A minimal theme for Insomnia.",
 	"main": "plugin.js",
